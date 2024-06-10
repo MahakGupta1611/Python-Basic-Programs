@@ -1,0 +1,1 @@
+By default write.txt made by just writtenAgain writing, it show the previous content also

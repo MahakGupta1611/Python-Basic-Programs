@@ -1,0 +1,2 @@
+from playsound import playsound 
+playsound('C:\\Users\\VIKAS GUPTA\\Desktop\\code\\python\\a.mp3')
